@@ -103,7 +103,7 @@ Sensors and electronics:
 * 1 3D printed breadboard platform
 * 2 t nuts and 2 screws (5/16"-18 5/8" long) for breadboard platform
 * Small zip ties
-* 3D printed wire clips (STL missing, I will add it if I can find it)
+* 3D printed cable management clips
 
 Tools:
 * 3D printed hook and loop fastener aligners

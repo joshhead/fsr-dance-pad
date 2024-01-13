@@ -8,6 +8,11 @@ The STL files covered by each STEP file are listed below. Mirrored STLs are base
 
 - breadboard-platform.stl
 
+## cable-management-clip.step
+
+- cable-management-clip-15-series.stl
+- cable-management-clip-motedis-40-series.stl
+
 ## inactive-panel-standoff.step
 
 - inactive-panel-standoff.stl
