@@ -89,7 +89,7 @@ Panels and standoffs:
 * 20 3D printed inactive panel standoffs
 * 16 3D printed active panel FSR holders
 * 16 3D printed active panel standoffs
-* 16 3D printed active panel standoff holders
+* 16 3D printed active panel standoff holders (8 of standoff-holder.stl and 8 of standoff-holder-mirrored.stl)
 * 16 rubber bumpers with adhesive backing, 1/2" OD, 1/16" thick
 * 36 pairs of hook and loop fastener circles, 20mm diameter (36 hook, 36 loop)
 
