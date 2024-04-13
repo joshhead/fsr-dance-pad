@@ -49,6 +49,8 @@ I built two pads in the USA between 2021 and 2022 for around $1750 total.
 
 # Bill of Materials
 
+(See sourcing guide [here](./sourcing-guide.md) for product links and additional commentary.)
+
 Frame Extrusions:
 | Quantity | Profile            | Length   | Machining      |
 | -------- | ------------------ | -------- | -------------- |
@@ -56,7 +58,7 @@ Frame Extrusions:
 | 2        | 1530 (1.5" x 3.0") | 33 3/8"  | 4x counterbore |
 | 2        | 1530 (1.5" x 3.0") | 40 7/8"  | none           |
 | 1        | 1530 (1.5" x 3.0") | 33 3/8"  | 6x counterbore |
-| 1        | 3060 (3.0" x 6.0") | 33 3/8   | 6x counterbore |
+| 1        | 3060 (3.0" x 6.0") | 33 3/8"  | 6x counterbore |
 
 [![dimensions and counterbores drawing](./drawings/dimensions-and-counterbores.png)](./drawings/dimensions-and-counterbores.png)
 
