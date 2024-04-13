@@ -1,5 +1,7 @@
 # FreeCAD Model
 
+[<img alt="dance pad CAD model" src="../images/fsr-dance-pad-v1-cad-screenshot.png"/>](../images/fsr-dance-pad-v1-cad-screenshot.png)
+
 My original CAD models were incomplete, but I remodeled the pad in 2024. I believe the parts and placement are accurate, but it's possible there are some mistakes.
 
 Some tools are missing for now.
