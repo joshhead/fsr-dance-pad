@@ -1,6 +1,6 @@
 # FSR Dance Pad with Aluminum Frame
 
-[<img alt="assembled dance pad" src="./images/thumbs/thumb-001-full-dance-pad.jpg" width=400/>](./images/001-full-dance-pad.jpg) [<img alt="dance pad CAD model" src="./images/fsr-dance-pad-v1-cad-screenshot.png" width=300/>](./freecad/readme.md)
+[<img alt="assembled dance pad" src="./images/thumbs/thumb-001-full-dance-pad.jpg" width=400/>](./images/001-full-dance-pad.jpg) [<img alt="dance pad CAD model" src="./images/fsr-dance-pad-v1-cad-screenshot.png" width=300/>](./freecad)
 
 # Acknowledgements
 
