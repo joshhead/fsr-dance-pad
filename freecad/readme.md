@@ -11,4 +11,6 @@ fsr-dance-pad.FCStd contains links to files in the parts-and-subassemblies folde
 
 It should work in FreeCAD 0.21.0 or newer.
 
+A copy of the assembly is also exported as a STEP file in the [step](../step) folder.
+
 [<img alt="dance pad CAD model" src="../images/fsr-dance-pad-v1-cad-screenshot.png"/>](../images/fsr-dance-pad-v1-cad-screenshot.png)
